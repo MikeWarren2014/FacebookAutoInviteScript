@@ -14,4 +14,4 @@ This script will allow you to invite many people, minus the people you don't wan
 9. Click "OK", wait, and let the script do the inviting!
 
 
-[1] : http://code.jquery.com/jquery-latest.min.js
+[1]: http://code.jquery.com/jquery-latest.min.js
